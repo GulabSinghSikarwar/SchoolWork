@@ -14,3 +14,4 @@ let str="javascript"
 
  let c=str.charAt(properIndex)
  console.log(c);
+//  rock paper sesor 
